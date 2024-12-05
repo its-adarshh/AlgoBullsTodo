@@ -4,3 +4,4 @@ flake8==7.0.0
 black==24.2.0
 sqlparse==0.4.4
 djangorestframework==3.14.0
+whitenoise
